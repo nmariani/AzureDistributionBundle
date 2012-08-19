@@ -1,11 +1,12 @@
 {
-    "name": "beberlei/azure-distribution-bundle",
+    "name": "nmariani/azure-distribution-bundle",
     "type": "symfony-bundle",
     "authors": [
-        {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"}
+        {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"},
+        {"name": "Nathanaël Mariani", "email": "github@nmariani.fr"}
     ],
     "require": {
-        "symfony/symfony": ">=2.0.10,<2.1.0-dev",
+        "symfony/symfony": "2.1.*",
         "beberlei/azure-blob-storage": "*"
     },
     "autoload": {
