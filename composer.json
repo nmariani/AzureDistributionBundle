@@ -5,8 +5,9 @@
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"},
         {"name": "Nathanaël Mariani", "email": "github@nmariani.fr"}
     ],
+    "minimum-stability": "dev",
     "require": {
-        "symfony/symfony": "2.1.*",
+        "symfony/symfony": "2.2.*",
         "beberlei/azure-blob-storage": "*"
     },
     "autoload": {
